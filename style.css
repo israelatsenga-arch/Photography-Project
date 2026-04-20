@@ -2,7 +2,7 @@ body{
     background-color: blanchedalmond;
     margin: 0;
     padding:0;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header{background-color: black;
     padding: 50px 0;
@@ -14,10 +14,17 @@ header a{
 }
 nav{
     background-color: darkred;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     padding: 10px;
 }
 nav a{
     text-decoration: none;
     color: aliceblue;
+}
+section{
+    font-family:'bangers';
+    background-color: black;
+    color: blueviolet;
+    border-radius: 2px solid blueviolet;
 }
