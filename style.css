@@ -7,6 +7,7 @@ body{
 header{background-color: black;
     padding: 50px 0;
     text-align:center;
+    font-size: 18px;
 }
 header a{
     text-decoration: none;
@@ -15,12 +16,17 @@ header a{
 nav{
     background-color:rgb(137, 11, 255);
     display: flex;
-    justify-content: center;
     padding: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
 }
 nav a{
     text-decoration: none;
     color: aliceblue;
+    display: flex;
+    margin:0 10px
 }
 section{
     font-family:'bangers';
@@ -28,12 +34,10 @@ section{
     color:  rgb(137, 11, 255);
     border: 2px solid blueviolet;
     letter-spacing : 0.5px;
-    max-width: 900px;
+    max-width: 950px;
     padding: 24px;
     margin:20px auto;
     border-radius: 10px;
-    display: flex;
-    allign-items:centre;
 }
 section img{
     width:200px;
