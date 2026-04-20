@@ -11,7 +11,7 @@ header{background-color: black;
 }
 header a{
     text-decoration: none;
-    color:aliceblue
+    color:rgb(137, 11, 255)
 }
 nav{
     background-color:rgb(137, 11, 255);
@@ -24,7 +24,7 @@ ul{
 }
 nav a{
     text-decoration: none;
-    color: aliceblue;
+    color: black;
     display: flex;
     margin:0 10px
 }
