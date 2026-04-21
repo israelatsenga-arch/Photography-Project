@@ -26,7 +26,11 @@ nav a{
     text-decoration: none;
     color: black;
     display: flex;
-    margin:0 10px
+    margin:0 10px;
+    font-family:'bangers';
+}
+nav a:hover{
+    color: crimson;
 }
 section{
     font-family:'bangers';
@@ -38,6 +42,10 @@ section{
     padding: 24px;
     margin:20px auto;
     border-radius: 10px;
+    transition: box-shadow 0.3s ease;
+}
+section:hover{
+    box-shadow:0 4px 8px rgba(0, 0, 0, 0.352);
 }
 section img{
     width:200px;
