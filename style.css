@@ -7,7 +7,7 @@ body{
 header{background-color: black;
     padding: 50px 0;
     text-align:center;
-    font-size: 18px;
+    font-size: 30px;
 }
 header a{
     text-decoration: none;
@@ -28,6 +28,7 @@ nav a{
     display: flex;
     margin:0 10px;
     font-family:'bangers';
+    font-size: 18px;
 }
 nav a:hover{
     color: crimson;
