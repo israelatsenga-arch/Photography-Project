@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-=======
-#My Photography Project
+My Photography Project
 
 <!-- Description -->
 This is a gallery containing a few pictures from the animated movie I love.
@@ -17,4 +14,3 @@ https://israelatsenga-arch.github.io/Photography-Project/
 
 <!-- Copyright and license information -->
 ©2026
->>>>>>> f16d7a7 (feat: addition of the README.md file)
