@@ -18,6 +18,5 @@ You can use the Navigation bar to move through the page to different sections of
 https://israelatsenga-arch.github.io/Photography-Project/
 
 <!-- Copyright and license information -->
-©2026
 All copyrights reserved
 ©2026
