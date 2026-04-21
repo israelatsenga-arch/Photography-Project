@@ -13,6 +13,7 @@ My name is:
 Mark Israel
 
 <!-- Instructions -->
+How you can use it:
 You can use the Navigation bar to move through the page to different sections of it depending on what you want to see.
 
 <!-- Link to live site -->
