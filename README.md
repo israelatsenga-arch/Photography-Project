@@ -1,5 +1,10 @@
 My Photography Project
 
+<!-- Features used -->
+The features I used are:
+HTML
+CSS
+
 <!-- Description -->
 This is a gallery containing a few pictures from the animated movie I love.
 
@@ -13,4 +18,6 @@ You can use the Navigation bar to move through the page to different sections of
 https://israelatsenga-arch.github.io/Photography-Project/
 
 <!-- Copyright and license information -->
+©2026
+All copyrights reserved
 ©2026
