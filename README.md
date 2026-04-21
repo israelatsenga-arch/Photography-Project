@@ -9,6 +9,7 @@ CSS
 This is a gallery containing a few pictures from the animated movie I love.
 
 <!-- The Author -->
+My name is:
 Mark Israel
 
 <!-- Instructions -->
