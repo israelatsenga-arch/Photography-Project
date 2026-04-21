@@ -73,4 +73,9 @@ form button{
     transition: background-color 0.3s ease;
     cursor: pointer;
 }
-
+form button:hover{
+    background-color: crimson;
+}
+form button:active{
+    background-color: darkred;
+}
