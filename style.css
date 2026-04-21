@@ -61,4 +61,8 @@ form label{
     margin-bottom: 8px;
     display: block;
 }
-
+form input,form textarea,form button{
+    font-size: 18px;
+    border: 2px solid rgb(137, 11, 255);
+    border-radius: 10px;
+}
