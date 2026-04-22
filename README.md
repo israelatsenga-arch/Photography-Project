@@ -1,24 +1,20 @@
-My Photography Project
+# Photography Project
 
-<!-- Features used -->
-The features I used are:
+## Author
+Mark Israel
+
+## Description
+This is a gallery containing a few pictures from the animated movie I love.
+
+## Features used
 HTML
 CSS
 
-<!-- Description -->
-This is a gallery containing a few pictures from the animated movie I love.
-
-<!-- The Author -->
-My name is:
-Mark Israel
-
-<!-- Instructions -->
-How you can use it:
+## Instructions
 You can use the Navigation bar to move through the page to different sections of it depending on what you want to see.
 
-<!-- Link to live site -->
+## My website link
+View the live website here:
 https://israelatsenga-arch.github.io/Photography-Project/
 
-<!-- Copyright and license information -->
-All copyrights reserved
-©2026
+©2026 Mark
